@@ -1,0 +1,6 @@
+<resources>
+    <color name="kali_background">#09160F</color>
+    <color name="kali_surface">#112B22</color>
+    <color name="kali_primary">#9BF5C8</color>
+    <color name="kali_text">#EAFEF5</color>
+</resources>
