@@ -1,0 +1,12 @@
+# Created by GitHub Copilot
+# Android project for Kali Mobile Pro
+
+*.iml
+.gradle
+/local.properties
+/.idea
+/.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
